@@ -1,0 +1,94 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: outfit;
+}
+.container{
+    background-color: hsl(216, 50%, 16%);
+    max-width: 360px;
+    margin: 0 auto;
+    border-radius: 18px;
+}
+.imagen{
+    
+    padding: 18px;
+    border-radius: 17px;
+    text-align: center;
+
+}
+.imagen img{
+    width: 100%;
+    border-radius: 17px;
+}
+.texto{
+    color: hsl(0, 0%, 100%);
+    margin-left: 20px;
+}
+
+.texto h1{
+    margin-bottom:20px ;
+
+}
+
+.texto p{
+    color: hsl(215, 51%, 70%);
+    margin-bottom: 20px;
+}
+.text-design{
+    margin-left: 20px;
+
+    display: flex;
+}
+
+.text-design h3{
+    color: hsl(178, 100%, 50%);
+
+}
+
+.text-design p{
+    color: hsl(215, 51%, 70%);
+    margin-left: 140px;
+}
+
+.foot{
+    display: flex;
+}
+.foot img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    margin: 20px;
+}
+
+.foot p{
+    color: hsl(215, 51%, 70%);
+    margin-top: 14px;
+    margin-left: 20px;
+
+
+}
+
+.foot p1{
+    margin-left: 10px;
+    margin-top: 14px;
+    
+}
+
+.foot{
+    align-items: cente;
+}
+

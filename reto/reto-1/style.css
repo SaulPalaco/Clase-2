@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+   
 
 }
 
@@ -21,7 +22,7 @@ section{
 .imagen{
     background-color: hsl(0, 0%, 100%);
     padding: 18px;
-    border-radius: 17px;
+    border-radius: 40px;
     text-align: center;
 
 }
